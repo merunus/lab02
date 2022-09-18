@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\fourth-part\fourth-part\bin\Debug\net6.0\fourth-part.exe
+C:\Users\user\Desktop\fourth-part\fourth-part\bin\Debug\net6.0\fourth-part.deps.json
+C:\Users\user\Desktop\fourth-part\fourth-part\bin\Debug\net6.0\fourth-part.runtimeconfig.json
+C:\Users\user\Desktop\fourth-part\fourth-part\bin\Debug\net6.0\fourth-part.dll
+C:\Users\user\Desktop\fourth-part\fourth-part\bin\Debug\net6.0\fourth-part.pdb
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.AssemblyInfo.cs
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.dll
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\refint\fourth-part.dll
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.pdb
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\fourth-part.genruntimeconfig.cache
+C:\Users\user\Desktop\fourth-part\fourth-part\obj\Debug\net6.0\ref\fourth-part.dll
